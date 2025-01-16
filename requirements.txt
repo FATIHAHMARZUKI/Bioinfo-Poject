@@ -1,0 +1,6 @@
+networkx
+matplotlib
+pandas
+biopython
+scikit-learn
+streamlit
